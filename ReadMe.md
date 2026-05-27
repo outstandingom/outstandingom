@@ -11,7 +11,7 @@ Building real-world technology products focused on automation, cybersecurity, AI
 
 - 🔭 Building practical products in **AI, Cybersecurity, Automation, IoT, and Blockchain**
 - 🧠 Strong focus on solving **real-world operational and business problems**
-- ⚡ Founder of **GrowHash**
+- ⚡ Founder of **GrowHaz**
 - 🌐 Website: **https://growhaz.com**
 - 🛠️ Building systems for:
   - QR-based business automation
