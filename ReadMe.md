@@ -74,7 +74,7 @@ Building real-world technology products focused on automation, cybersecurity, AI
 
 <p align="left">
 <a href="https://growhaz.com" target="_blank">
-<img src="https://img.shields.io/badge/Website-GrowHash-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Website-GrowHaz-black?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/Outstanding_om" target="_blank">
