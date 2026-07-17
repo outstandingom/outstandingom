@@ -109,11 +109,12 @@ Building real-world technology products focused on automation, cybersecurity, AI
 
 ## 🏆 Achievements
 
-- 🥈 2nd Place — Research Paper Competition at LNCT
-- 🏆 Debate Competition Winner at Euphoria
-- 🚀 Participated in Startup Expos & Hackathons
-- 🎯 Built real-world client and startup projects
-- 🔐 Building cybersecurity & SEO tools under GrowHash
+🥈 2nd Place — Research Paper Competition at LNCT
+🏆 Debate Competition Winner at Euphoria
+🚀 Participated in Startup Expos & Hackathons
+🎯 Built real-world client and startup projects
+🔐 Building Cybersecurity & SEO Tools under GrowHash
+♟️ Winner — Chess Competition, Khelo Khumbh, SISTec Ratibad
 
 ---
 
